@@ -1,0 +1,19 @@
+{
+  "name": "cine_freak",
+  "version": "1.0.0",
+  "description": "simple node app",
+  "main": "DataFetcher.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "body-parser": "^1.17.2",
+    "request": "^2.81.0",
+    "chartjs-plugin-zoom": "^0.5.0",
+    "chartjs-plugin-annotation": "^0.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "honey.hg",
+  "license": "ISC"
+}
