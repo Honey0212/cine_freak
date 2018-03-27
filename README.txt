@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/AkgunFatih/pen/rWJYMo.
-
- A custom bootstrap 4+ Card
+A project that allows user to search movies from popcorn times and display them into cards.
